@@ -5,7 +5,7 @@
 <h1 align="center">E-Commerce Website</h1>
 
 <p align="center">
-  Visit the website: <a href="https://e-commercew.netlify.app" target="_blank">E-Commerce Website</a>
+  Visit the website: <a href="https://shoppyreactjs.netlify.app/" target="_blank">E-Commerce Website</a>
 </p>
 
 ## 1. Installation
